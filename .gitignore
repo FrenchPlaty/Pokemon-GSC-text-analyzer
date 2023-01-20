@@ -42,6 +42,9 @@
 *.idb
 *.pdb
 
+# Avoid uploading ROMs by accident lmao
+*.gbc
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
